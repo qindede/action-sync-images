@@ -35,8 +35,4 @@ jobs:
       run: |
         #!/usr/bin/env bash
         skopeo copy docker://index.docker.io/cloudtogouser/pageplug-ce:v1.9.35 \
-<<<<<<< HEAD
             docker://registry.cn-hangzhou.aliyuncs.com/xhyd888/pageplug-ce:v1.9.35
-=======
-            docker://registry.cn-hangzhou.aliyuncs.com/xhyd888/pageplug:v1.9.35
->>>>>>> 86b54fe238c6a81e89007ce97aa72ae7085ba48d
