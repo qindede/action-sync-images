@@ -136,7 +136,7 @@ gcr.io/kaniko-project/executor:latest ->  registry.cn-hangzhou.aliyuncs.com/weiy
 
 ---
 
-<span style="color:red">温馨提示</span>：微信小程序【极客全栈修炼】上线了，可以直接在微信中浏览唯一极客技术博客（ https://blog.weiyigeek.top ）中的相关文章，涉及网络安全、系统运维、应用开发、物联网实战、全栈文章，希望和大家一起学习进步，欢迎浏览交流！  
+<span style="color:red">温馨提示1</span>：微信小程序【极客全栈修炼】上线了，可以直接在微信中浏览唯一极客技术博客（ https://blog.weiyigeek.top ）中的相关文章，涉及网络安全、系统运维、应用开发、物联网实战、全栈文章，希望和大家一起学习进步，欢迎浏览交流！  
 
 <div align="center">
   <img src="https://www.weiyigeek.top/img/share.jpg" alt="个人主页站点-微信公众号-微信小程序【极客全栈修炼】" />
